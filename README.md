@@ -1,4 +1,4 @@
-# ANAC Smart Contract
+# Ponderada S3 Solidity Smart Contract
 
 ## Introdução
 
